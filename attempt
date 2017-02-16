@@ -3,7 +3,7 @@
 <head>
 <style>
 
-h {
+h1 {
 font-size: 20px
 color: red;
 text-align: center;
