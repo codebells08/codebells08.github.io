@@ -2,13 +2,18 @@
 
 <head>
 <style>
+
 h {
 font-size: 20px
-color: #00BFFF;
-margin: center;
+color: red;
+text-align: center;
 }
 p {
 font-size: 12px;
+text-align: center;
+
+body {
+background: blue;
 }
 </style>
 </head>
