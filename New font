@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 
-<head>
 
+
+<head>
+<style>
+
+img { 
+    width:50%; 
+}
+h1 {
+font-size: 40px;
+color: rgb(0, 144, 0);
+text-align: center;
+font-family: "Courier", Courier, serif;
+}
+p {
+font-size: 12px;
+text-align: center;
+}
+div#images {
+    display: table;
+}
+div.row {
+	display: table-row;
+}
+</style>
 </head>
 
 <h1> Welcome to our tribute to Dolly the Sheep! </h1>
